@@ -1,3 +1,3 @@
 # SQL
 
-Analysis and Data Sort based on Client requirements to leverage their business needs and expand.
+Analyze and sort data based on Client requirements to leverage their business needs and focus on partcular niche.
